@@ -9,7 +9,7 @@ The project focuses on creating a clean digital presence for a non-profit organi
 ---
 
 ## 🌐 Live Demo
-[https://your-live-demo-url.com/](https://ngo-website-beta-tawny.vercel.app/)
+https://ngo-website-beta-tawny.vercel.app/
 
 Add the deployed website URL here when the project is hosted.
 
